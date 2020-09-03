@@ -13,9 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=miyoshibunjiro&count_private=true&show_icons=true" />
+<a href="https://github.com/miyoshibunjiro/github-profile-trophy"><h2> Github Trophy</h2></a>
+<a href="https://github.com/miyoshibunjiro/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=miyoshibunjiro&column=7"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyoshibunjiro" />
-</a>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=miyoshibunjiro&count_private=true&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyoshibunjiro&layout=compact" />
+</div>
